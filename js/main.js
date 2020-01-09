@@ -199,6 +199,7 @@
     ===================*/
     $(window).on("load", function () {
         $('.preloader').fadeOut(500);
+        $('#copyright').html(`&copy;Copyright ${(new Date).getFullYear()}. All Rights Reserved`)
     });
 })(jQuery);
 
