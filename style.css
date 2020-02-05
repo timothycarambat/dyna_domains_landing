@@ -997,3 +997,10 @@ preloader
         opacity: 0;
     }
 }
+
+.break-li {
+  border: 0px solid white;
+  -webkit-box-shadow: -7px 4px 0px -4px white;
+  -moz-box-shadow: -7px 4px 0px -4px white;
+  box-shadow: -7px 4px 0px -4px white;
+}
