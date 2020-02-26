@@ -254,6 +254,21 @@ input:-webkit-autofill:focus {
     font-size: 14px;
 }
 
+.desc-container {
+    border-bottom: 2px solid #eee;
+}
+
+.desc-title {
+    margin-bottom: 60px;
+}
+
+.desc-title h2 {
+    text-transform: uppercase;
+    position: relative;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
 /**
 *Box-style
 **/
