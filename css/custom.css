@@ -19,3 +19,23 @@
 .hidden {
   display: none;
 }
+
+.highlight {
+  color: #facb64;
+}
+
+.steps {
+  text-align:left;
+  list-style: decimal;
+  margin-bottom: 0px;
+}
+
+.steps > li {
+  padding: 10px;
+}
+
+@media (max-width: 767px) {
+  .border-line-cont {
+    display: none;
+   }
+}
