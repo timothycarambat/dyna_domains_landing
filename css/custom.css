@@ -34,8 +34,8 @@
   padding: 10px;
 }
 
-@media (max-width: 767px) {
-  .border-line-cont {
+@media (max-width: 800px){
+  .border-line, .shape1, .shape2, .shape3{
     display: none;
-   }
+  }
 }
